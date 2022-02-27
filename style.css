@@ -1,0 +1,86 @@
+body{
+    background-color: whitesmoke;
+    color: #2F4F4F;
+    font-size: 30px;
+    line-height: 1.5;
+    margin:0;
+}
+h1{
+ font-size: 150px;
+ text-align: center;
+ font-family: 'Signika', sans-serif;
+}
+
+h2{
+  text-align:center;
+  font-family:'Signika', sans-serif;
+  font-size: 50px;
+}
+.foto-hlavicka {
+    width:26%;
+    border: 150px solid dashed #808080;
+    padding-left: 100px;
+    top: center;
+}
+a{
+   color:#696969 ;
+   text-align: center;
+   font-family: 'Mandali', sans-serif;
+}
+.menu{
+    background-color: #f3ecd0;
+    border-bottom: dashed #d2b48c;
+    border-top: dashed #d2b48c;
+    text-align: center;
+}
+.menu li{
+    display: inline-block;
+    padding: 20px;
+}
+.menu a{
+    color: #696969;
+    font-size: 30px;
+
+}
+.menu a:hover,
+.menu a:focus,
+.menu a:active{
+        background-color: #deb887;
+        padding: 1px;
+}
+table{
+    border top: 3px dashed #f4a460;  
+}
+.hobby{
+  margin-left:auto;
+  margin-right:auto; 
+}
+td{
+    padding:12px;
+    text-align: left;
+    border-bottom: 3px dashed #f4a460;
+}
+
+.Michaela,
+.Dovednosti,
+.paticka,
+.Zajmy{
+    background-color:#f3ecd0 ;
+    border-bottom: dashed #d2b48c;
+    border-top: dashed #d2b48c;
+}
+ 
+
+section{
+    font-family: 'Mandali', sans-serif;
+    text-align: center;
+    padding:35px;
+     margin:0;
+}
+
+
+.paticka{
+    padding: 20px;
+    text-align: center;
+    font-size: 15px;
+}
