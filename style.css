@@ -17,10 +17,11 @@ h2{
   font-size: 50px;
 }
 .foto-hlavicka {
-    width:26%;
-    border: 150px solid dashed #808080;
-    padding-left: 100px;
-    top: center;
+    width:30%;
+    border: 2px dashed  #808080;
+    margin-left: 25px;
+  
+    
 }
 a{
    color:#696969 ;
@@ -49,7 +50,7 @@ a{
         padding: 1px;
 }
 table{
-    border top: 3px dashed #f4a460;  
+    top: 3px dashed #f4a460;  
 }
 .hobby{
   margin-left:auto;
